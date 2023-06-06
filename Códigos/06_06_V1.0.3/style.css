@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0 ;
+    font-family: "Roboto", sans-serif;
+}
+
+.container{
+    background-color: #f0f0f0 !important;
+    padding: 24px 59px 63px !important;
+}
+.main {
+    background-color: #ffffff !important;
+    border-radius: 5px !important;
+    padding: 20px 26px 12px 27px !important;
+}
+
+.header {
+    height: 135px;
+    text-align: center;
+    padding-top: 15px;
+    background-image: linear-gradient(45deg, rgb(92, 9, 9), #fd9002); 
+}
+
+.logo {
+  align-items: center;
+  width: 400px; 
+  height: auto;
+  margin-top: -140px;
+}
+
+.footer {
+    background-image: linear-gradient(45deg, rgb(92, 9, 9), #fd9002) ; 
+    height: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.h1 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 35px;
+    color: #ff6a28;
+    margin-bottom: 20px;
+}
+
+.h2 {
+    text-align: center;
+    color: #252323b2;
+    margin-bottom: 40px;
+    font-size: 25px;
+}
+
+li {
+    list-style-position: inside;
+    line-height: 35px;
+}
+
+ul {
+    margin-bottom: 10px;
+}
+
+.link-footer {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.img {
+    margin-top: -190px;
+    
+}
+
+.ul-menu{
+    list-style: none; 
+    display: flex; 
+    justify-content: center; 
+    background-color: #ffe8bd;
+    padding: 10px; 
+    box-shadow: 3px 3px 14px;
+}
+ 
+.li-menu{
+    flex-grow: 1;
+    color: #ec6307; 
+    text-decoration: none;
+}
+.banner{
+    width: 100%;
+    margin-left: 0em;
+    margin-top: 0em;
+    margin-right: 0em;
+    margin-bottom: 0em;
+    
+}
+.card{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 1.5rem;
+    margin-bottom: 10px;
+    
+}
+
+.card_fundo{
+    background-color: #fff;
+    border-radius: 3px;
+    overflow: hidden;
+    
+}
+
+.card_img{
+    text-align: center;
+    
+}
+
+.card_info{
+    padding: 15px;
+    text-align: center;
+    
+}
+
+.card_txt{
+    font-size: 16px;
+    color: var(--color3);
+    margin-bottom: 6px;
+    font-weight: 400;
+    
+}
+
+.card_fundo2{
+    background-color: #fff;
+    border-radius: 3px;
+    overflow:visible ;
+
+    
+}
+
+.card2{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20rem;
+    
+}
+
+
+
+
+  
+
+
+
